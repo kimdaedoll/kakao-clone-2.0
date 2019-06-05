@@ -16,7 +16,7 @@
 }
 
 .find .header-btn__title {
-  margin-top: 10px;
+  margin-top: 20px;
   font-size: 14px;
 }
 
@@ -34,14 +34,6 @@
   font-size: 12px;
   opacity: 0.7;
   margin-bottom: 15px;
-}
-
-.friend__add-btn {
-  display: flex;
-  padding: 10px;
-  justify-content: center;
-  align-items: center;
-  background-color: red;
 }
 
 /* .find__column {
